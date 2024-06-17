@@ -20,3 +20,12 @@ Dataset Name - Attendance Sheet 2022-2023_Masked
 a.This project involved analyzing employee presence and leave data using Power BI and Excel to derive insights and improve workforce management. 
 b. The analysis focused on understanding the working preferences (Work From Home - WFH, Work From Office - WFO) and sick leave patterns of employees.
 
+4. Accenture North America's Data Analytics and Visualization
+Link - https://github.com/revatichaudhari123/Data_Analystics_Projects/tree/ebe6696bcd6dc5d85a25b418b3e34ae235362340/Accenture_DataAnalytics 
+In the simulation I:
+ * Completed a simulation focused on advising a hypothetical social media client
+ as a Data Analyst at Accenture
+ * Cleaned, modelled and analyzed 7 datasets to uncover insights into content
+ trends to inform strategic decisions
+ * Prepared a PowerPoint deck and video presentation to communicate key insights
+ for the client and internal stakeholders
