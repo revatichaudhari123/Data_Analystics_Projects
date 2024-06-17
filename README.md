@@ -21,7 +21,7 @@ a.This project involved analyzing employee presence and leave data using Power B
 b. The analysis focused on understanding the working preferences (Work From Home - WFH, Work From Office - WFO) and sick leave patterns of employees.
 
 4. Accenture North America's Data Analytics and Visualization
-Link - https://github.com/revatichaudhari123/Data_Analystics_Projects/tree/ebe6696bcd6dc5d85a25b418b3e34ae235362340/Accenture_DataAnalytics
+Link - https://encr.pw/KnGNl 
 
 
 In the simulation I:
