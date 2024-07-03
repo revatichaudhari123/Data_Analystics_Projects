@@ -22,8 +22,6 @@ b. The analysis focused on understanding the working preferences (Work From Home
 
 4. Accenture North America's Data Analytics and Visualization
 Link - https://encr.pw/KnGNl 
-
-
 In the simulation I:
  * Completed a simulation focused on advising a hypothetical social media client
  as a Data Analyst at Accenture
