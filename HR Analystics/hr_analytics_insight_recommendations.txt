@@ -1,0 +1,18 @@
+Insights:
+
+- 91% of employees are present, 10% work from home, and 1.10% are on sick leave between April, May, and June.
+- The percentage of employees working from home is increasing, with June having the highest percentage.
+- Monday is the day with the highest office attendance, while Friday is the day with the highest work-from-home rate.
+- Alexander is an exception, working from home completely but with perfect attendance.
+- Employee presence is decreasing slightly month-over-month, with an increase in work-from-home and sick leave in June.
+
+Recommendations:
+
+- Consider adjusting software release schedules and project deadlines based on the trend of increasing work-from-home and sick leave.
+- Analyze the reasons behind the decreasing presence and increasing sick leave in June.
+- Consider implementing flexible work arrangements to accommodate employees' preferences, such as remote work options.
+- Monitor Alexander's work arrangement and consider replicating it for other employees if feasible.
+- Use the insights to optimize office space and resource allocation.
+- Consider using real-time data integration to keep the sheet dynamic and up-to-date.
+
+By leveraging these insights and recommendations, you can optimize your organization's work arrangements, improve employee satisfaction, and increase productivity.
