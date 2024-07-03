@@ -1,0 +1,25 @@
+Analysis:
+
+- The data was cleaned and standardized, removing missing values and harmonizing order priority labels.
+- Descriptive analysis revealed the count of orders by priority and shipping modes, showing that the Corporate segment generated the most orders.
+- Product analysis highlighted that the Technology category had the highest profit margins, despite fewer sales than Office Supplies.
+- Yearly order trends showed an increase in orders over the years.
+- Geographical analysis revealed that California had the highest sales and profit margins.
+- Shipping mode analysis showed that most sales came through regular air shipment mode.
+
+Insights:
+
+- The Corporate segment drives the most sales.
+- Technology has the highest profit margin.
+- Orders and sales are increasing yearly.
+- California contributes significantly to sales and profit margins.
+- Regular air shipment mode is the most used, suggesting potential for shipping rate negotiations.
+
+Recommendations:
+
+- Focus on the Corporate segment to maximize sales.
+- Invest in the Technology category to leverage its high profit margins.
+- Continue to monitor and analyze sales trends to capitalize on the increasing demand.
+- Consider targeted marketing and sales efforts in California to further boost sales.
+- Negotiate with shipping providers to secure better rates for regular air shipment mode.
+- Develop strategies to increase sales in other product categories, like Office Supplies, to maximize overall profit margins.
